@@ -1,2 +1,2 @@
 #!/bin/bash
-ex +2,3p -scq iacta
+perl -wne 'print if $. == 3' iacta
