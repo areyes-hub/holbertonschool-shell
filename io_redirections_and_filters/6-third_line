@@ -1,2 +1,2 @@
 #!/bin/bash
-ex +4p -scq iacta
+ex +3,4p -scq iacta
