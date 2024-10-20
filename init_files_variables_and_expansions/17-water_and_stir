@@ -1,2 +1,2 @@
 #!/bin/bash
-bestchol=$(($WATER+$STIR))
+printf "%x" "$((0x$WATER + 0x$STIR))"
